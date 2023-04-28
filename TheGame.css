@@ -1,0 +1,7 @@
+canvas{
+    background: url(./Background.png);
+}
+
+.player{
+    background-color: red;
+}
